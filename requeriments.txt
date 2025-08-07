@@ -1,2 +1,5 @@
 requests
-browser_cookie3
+beautifulsoup4
+urllib3
+browser-cookie3
+selenium
